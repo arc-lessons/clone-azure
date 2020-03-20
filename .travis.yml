@@ -13,7 +13,7 @@ script:
 
 deploy:
   provider: pages
-  repo: james-grant1/ch10009_jupyter 
+  repo: arc-lessons/clone-azure 
   target-branch: gh-pages
   local-dir: html
   github_token: $GITHUB_TOKEN
